@@ -8,14 +8,14 @@ Try the App :- https://drive.google.com/file/d/1p0Pzn5Y-IiAXFhABvlPbJoWahMmm4E2v
 A Android Device with Internet Connections.
 
 # Libraries Used
-- intl:- to reterieve date and time
+-intl:- to reterieve date and time
 -flutter_spinkit:- for progress indicator
 -http for api calling
 
-#Screenshot
+# Screenshot
 <img src="screenshots/home.png" alt="login image" align="left" width="200" hspace="10" vspace="10"  />
 
-#Improvement 
+# Improvement 
 Right now the Forecast for the Next 7 day display wrong weekday.
 
 ## Getting Started
